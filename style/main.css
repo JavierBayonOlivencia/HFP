@@ -655,6 +655,10 @@ section {
     gap: 8px;
 }
 
+#plan .plan-container .plan-content .plan-info .info-card .card-info ul li {
+    text-transform: none;
+}
+
 @media screen and (max-width: 1024px) {
 
     #plan .plan-container .plan-content {
