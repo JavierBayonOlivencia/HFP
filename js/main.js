@@ -1,4 +1,4 @@
-if (window.location.href.indexOf("index") > -1) {
+if (window.location.href.indexOf("index") > -1 || window.location.href.indexOf("HFP/") > -1) {
     const navIcons = document.querySelector(".icons");
     const menu = document.getElementById("bars");
     const close = document.getElementById("xmark");
