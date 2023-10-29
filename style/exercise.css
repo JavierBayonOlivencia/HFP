@@ -131,6 +131,15 @@ body {
 }
 
 @media screen and (max-width: 442px) {
+    section {
+        padding: 4rem 0rem;
+    }
+    
+    #exercise .exercise-container .exercise-content .content-info .info-cards .card .card-info span {
+        text-transform: capitalize;
+        opacity: 65%;
+    }
+    
     #exercise .exercise-container .exercise-content .content-info .info-cards .card-details {
         height: 100%;
         width: 100%;
