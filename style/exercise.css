@@ -71,7 +71,7 @@ body {
 
 #exercise .exercise-container .exercise-content .content-info .info-cards .card .card-info span {
     text-transform: uppercase;
-    opacity: 65%;
+    color: var(--orange-700);
 }
 
 #exercise .exercise-container .exercise-content .content-info .info-cards .card-details {
