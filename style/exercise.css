@@ -61,7 +61,7 @@ body {
 #exercise .exercise-container .exercise-content .content-info .info-cards .card {
     display: flex;
     flex-direction: column;
-    gap: 1rem;
+    gap: 8px;
 }
 
 #exercise .exercise-container .exercise-content .content-info .info-cards .card .card-info {
@@ -107,6 +107,12 @@ body {
     #exercise .exercise-container .exercise-content .content-info .info-cards {
         display: flex;
         flex-direction: column-reverse;
+        box-shadow: 0 0px 2px rgb(92, 36, 0, 0.2);
+        gap: 1rem;
+    }
+
+    #exercise .exercise-container .exercise-content .content-info .info-cards .card {
+        padding: 8px;
     }
 
     #exercise .exercise-container .exercise-content .content-info .info-cards .card-details img {
