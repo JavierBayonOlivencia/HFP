@@ -125,7 +125,7 @@ body {
 
     #exercise .exercise-container .exercise-content .content-info .info-cards .card-details {
         height: 100%;
-        width: 80%;
+        width: 100%;
         position: static;
     }
 
